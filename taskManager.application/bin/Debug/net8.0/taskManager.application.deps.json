@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "taskManager.application/1.0.0": {
+        "dependencies": {
+          "taskManager.Communication": "1.0.0"
+        },
+        "runtime": {
+          "taskManager.application.dll": {}
+        }
+      },
+      "taskManager.Communication/1.0.0": {
+        "runtime": {
+          "taskManager.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "taskManager.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "taskManager.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

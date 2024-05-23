@@ -1,0 +1,11 @@
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\bin\Debug\net8.0\taskManager.Communication.deps.json
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\bin\Debug\net8.0\taskManager.Communication.dll
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\bin\Debug\net8.0\taskManager.Communication.pdb
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\obj\Debug\net8.0\taskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\obj\Debug\net8.0\taskManager.Communication.AssemblyInfoInputs.cache
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\obj\Debug\net8.0\taskManager.Communication.AssemblyInfo.cs
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\obj\Debug\net8.0\taskManager.Communication.csproj.CoreCompileInputs.cache
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\obj\Debug\net8.0\taskManager.Communication.dll
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\obj\Debug\net8.0\refint\taskManager.Communication.dll
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\obj\Debug\net8.0\taskManager.Communication.pdb
+C:\Users\ludeh\OneDrive\Área de Trabalho\projetos-estudo\gerenciador de tarefas\taskManeger\taskManager.Communication\obj\Debug\net8.0\ref\taskManager.Communication.dll
